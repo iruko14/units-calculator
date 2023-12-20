@@ -3,8 +3,7 @@ from b_ounit_select import *
 from c_unit_calculation import *
 from d_output_result import *
 
-def start():
-   print('Welcome to the Unit Calculator!')
+print('Welcome to the Unit Calculator!')
 mag_entry = input('''What magnitude do you want to convert?
 1.Mass
 2.Length
